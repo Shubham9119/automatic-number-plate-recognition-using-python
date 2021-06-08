@@ -1,0 +1,3 @@
+https://pypi.org/project/imutils/
+
+https://docs.opencv.org/4.5.0/
